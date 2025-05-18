@@ -1,7 +1,7 @@
 # Security
 
 At Corteza, the security of our products and services is important to us.
-All of our source code repositories are managed through GitHub organisations.
+All of our source code repositories are managed through GitHub organizations.
 Here is the list of [Corteza Repositories](https://github.com/orgs/cortezaproject/repositories)
 
 If you believe you have found a security vulnerability in any Corteza repository, please report it to us as described below.
